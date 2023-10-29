@@ -1,0 +1,4 @@
+baseURL = 'https://demo.jiangsc.me/'
+languageCode = 'en-nz'
+title = 'My New Hugo Site'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
